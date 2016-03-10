@@ -82,7 +82,7 @@ It downloads the latest version of ZeroNet then starts it automatically.
 #### Manual install for Debian Linux
 
 * `sudo apt-get update`
-* `sudo apt-get install msgpack-python python-gevent`
+* `sudo apt-get install python-msgpack python-gevent`
 * `wget https://github.com/HelloZeroNet/ZeroNet/archive/master.tar.gz`
 * `tar xvpfz master.tar.gz`
 * `cd ZeroNet-master`
